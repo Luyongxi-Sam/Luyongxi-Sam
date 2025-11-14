@@ -7,7 +7,7 @@ h1 align="center">Hi 👋, I'm Lu Yongxi</h1>
 
 - 📫 How to reach me **3300919054@qq.com**
 
-- 📄 Know about my interest football
+- 📄 Know about my interest: football
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
