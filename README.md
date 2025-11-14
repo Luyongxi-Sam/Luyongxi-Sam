@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lu Yongxi</h1>
+h1 align="center">Hi 👋, I'm Lu Yongxi</h1>
 <h3 align="center">I am a student from China.</h3>
+
+- 🔭 I’m looking for **job**
+
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **3300919054@qq.com**
 
-- 📄 Know about my interest [I like football.](I like football.)
+- 📄 Know about my interest football
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
