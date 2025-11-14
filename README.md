@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
    
-   A university
-- 🔭 I’m currently looking for work.
-- 🌱 I’m currently learning python.
-- 📫 How to reach me: 3300919054@qq.com
-- ⚡ Interest:Football
+   **A university**
+- 🔭 I’m currently **looking for work.**
+- 🌱 I’m currently learning **python.**
+- 📫 How to reach me:** 3300919054@qq.com**
+- ⚡ Interest:**Football**
 -->
